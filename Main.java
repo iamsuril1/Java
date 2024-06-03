@@ -7,10 +7,13 @@ public class Main{
 
         long num=123456789;
         System.out.println(num);
+        int i=5;
         
-        for(int i=0;i<=num;i++){
-            System.out.println(i);
-            
+        if(i>num){
+            System.out.println(num);
+        }
+        else{
+            System.out.println(num);
         }
     }
 }
