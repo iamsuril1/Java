@@ -1,0 +1,5 @@
+product;price
+Laptop; 40,000.0
+SmartPhone; 50,000.0
+SmartPhone; 60,000.0
+Laptop;80,000
